@@ -1,0 +1,9 @@
+﻿  elite_check.c
+c:\users\home\documents\visual studio 2010\projects\elite_check\elite_check\elite_check.c(39): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\visual studio 2010\vc\include\stdio.h(304) : 'scanf' 선언을 참조하십시오.
+c:\users\home\documents\visual studio 2010\projects\elite_check\elite_check\elite_check.c(59): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\visual studio 2010\vc\include\stdio.h(304) : 'scanf' 선언을 참조하십시오.
+c:\users\home\documents\visual studio 2010\projects\elite_check\elite_check\elite_check.c(89): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\visual studio 2010\vc\include\string.h(105) : 'strcpy' 선언을 참조하십시오.
+c:\users\home\documents\visual studio 2010\projects\elite_check\elite_check\elite_check.c(50): warning C4715: 'allocation_memory' : 모든 제어 경로에서 값을 반환하지는 않습니다.
+  elite_check.vcxproj -> c:\users\home\documents\visual studio 2010\Projects\elite_check\Debug\elite_check.exe
